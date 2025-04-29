@@ -4,7 +4,7 @@
 
 This script is an **automated one-click Linux security inspection tool**, designed for incident response, security auditing, and emergency troubleshooting.  
 Once executed, it automatically scans critical security aspects of the system, generates detailed logs, and optionally uploads them to a remote server.  
-**All output messages are in Chinese**, making it easy to spot issues quickly during analysis.
+**All output messages are in english**, making it easy to spot issues quickly during analysis.
 
 ---
 
