@@ -1,4 +1,4 @@
-# Linux Security Audit One-Click Script (Chinese Output Version)
+# Linux Security Audit One-Click Script 
 
 ## 📌 Project Introduction
 
