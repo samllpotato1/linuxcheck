@@ -1,8 +1,3 @@
-当然可以！  
-下面是这个项目的英文版 `README.md`，专业、清晰，适合直接放到GitHub或者交付使用：
-
----
-
 # Linux Security Audit One-Click Script (Chinese Output Version)
 
 ## 📌 Project Introduction
